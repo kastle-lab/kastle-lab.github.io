@@ -7,10 +7,11 @@
 
 ### Graduate Students
 * Antrea Christou
+* Brandon Dave
 
 ### Undergraduate Students
+* Evan Music
+* Joshua Quaintance
 
 ### Affiliated Faculty
 * [Pascal Hitzler](https://pascal-hitzler.de)
-
-### Alumni
