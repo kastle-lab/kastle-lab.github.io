@@ -1,19 +1,20 @@
 [Home](index.md) | [People](people.md) | [Publications](publications.md) | [Projects](projects.md) | [Research](research.md)
 
-## Research Activities
+## Research Foci
 
-### Knowledge Engineering
+### Human-Centric Knowledge Engineering
+Generally pertaining to the development of knowledge graphs, data integration, and ontology alignment.
 
-### Ontology Learning & Automatic Knowledge Graph Construction
+### Automated Knowledge Engineering
+Generally pertaining to the development of tools, frameworks, and methods for automatically constructing ontologies, as well as conducting data integration, semantic harmonization, schema alignment, etc.
 
 ### Natural Language Processing
+Generally pertaining to the extraction of formal knowledge from unstructured natural language.
 
 ## Independent Studies
 
 ### Current Projects
 * Knowledge Graph Powered Chat Bot -- Anmol Saini
-
-### Past Projects
 
 ### Requesting an Independent Study
 Please note that if you are interested in an independent study, the selected topic for the IS will pertain to one of KASTLE Lab's research foci. An independent study will always consist of a kick-off meeting at the start of the semester where we outline the specific trajectory of the course plan. It will be followed by 10 updates over the course of the semester where you will update progress on the particular topic. A final report will be due at the end of the semester.
