@@ -11,6 +11,10 @@ Generally pertaining to the development of tools, frameworks, and methods for au
 ### Natural Language Processing
 Generally pertaining to the extraction of formal knowledge from unstructured natural language.
 
+### Open Science
+
+### The PRAXIS Initiative
+
 ## Independent Studies
 
 ### Current Projects
