@@ -2,8 +2,8 @@
 
 ## People
 
-### Leader
-[Cogan Shimizu](https://coganshimizu.com)
+### Faculty
+* [Cogan Shimizu](https://coganshimizu.com) (Director)
 
 ### Graduate Students
 * Antrea Christou
