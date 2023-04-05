@@ -15,18 +15,20 @@
   <body>
     <div class="wrapper">
       <header>
-
         {% if site.logo %}
         <a href="{{ site.github.owner_url }}"><img src="{{site.logo | relative_url}}" alt="Logo" /> </a>
         {% endif %}
 
-        <p>Home</p>
-        <p>People</p>
-        <p>Publications</p>
-        <p>Projects</p>
-        <p>Research</p>
-        <p>Teaching</p>
+        <p align="center"><a href="./home.md">Home</a></p>
+        <p align="center"><a href="./people.md">People</a></p>
+        <p align="center"><a href="./publications.md">Publications</a></p>
+        <p align="center"><a href="./projects.md">Projects</a></p>
+        <p align="center"><a href="./research.md">Research</a></p>
+        <p align="center"><a href="./recruiting.md">Recruiting</a></p>
+        <p align="center"><a href="./teaching.md">Teaching</a></p>
+
         <hr>
+        
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.show_downloads %}
