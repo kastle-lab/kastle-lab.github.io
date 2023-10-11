@@ -1,5 +1,5 @@
 ## Research Foci
-Below are the main research topics for the KASTLE lab. Current, past, and possible independent studies or research project opportunities are listed below each topic. **We are currently welcoming [Independent Studies](./recruiting.md) pertaining to the below topics listed as "OPEN".**
+Below are the main research topics for the KASTLE lab. Current, past, and possible independent studies or research project opportunities are listed below each topic. **We are currently welcoming [Independent Studies](./recruiting.md) and Master's Theses pertaining to the below topics listed as "OPEN".**
 
 ### Human-Centric Knowledge Engineering
 Generally pertaining to the development of knowledge graphs, data integration, and ontology alignment.

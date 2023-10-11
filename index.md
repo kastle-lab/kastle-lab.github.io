@@ -7,7 +7,15 @@ KASTLE Lab's purpose is to
 * understand the bridge between human-conceptualization and machine-encoding to better align and design AI systems; and
 * advance the state of open curriculum in knowledge engineering and semantic technologies.
 
-### Additional Resources
+## Notices
+* Accepting Independent Studies and Master's Thesis topics. Please see the [recruiting page](./recruiting.md) for more details.
+* Seeking students for [DAGSI](https://www.soche.org/college-students/dagsi-student-research/) topics:
+  * RX24-26: [Creation of Materials, Manufacturing and Design Knowledge Representation via Self-assembly of Ontology Design Patterns](https://www.soche.org/wp-content/uploads/2023/09/RX24-26.pdf)
+
+## Recent News
+* KASTLE Lab wins [1.5MM award from NSF], as the Education Gateway to the [Proto-OKN](https://proto-okn.info/).
+
+## More Useful Links
 In addition to the links in the sidebar, see the following links for interesting, useful, or related resources for 
 * [Cogan's Personal Webpage](https://coganshimizu.com/)
 * [The PRAXIS Initiative](https://the-praxis-initative.org/) -- a nexus for educational materials and activities, pertaining to knowledge engineering
