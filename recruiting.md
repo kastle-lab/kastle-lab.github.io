@@ -21,7 +21,7 @@ These positions are only open to students that have completed at least one of th
 * has satisfactorily completed an independent study, each under my instruction
 * has completed a Master's thesis on a topic related to the lab's research topics.
 
-**Unforunately, there are currently no open funded positions.**  
+**Unforunately, there are currently no open positions in this category.**
 
 ### DAGSI Fellowships
 Each year, the Defense Associated Graduate Student Innovators (DAGSI) program, as an arm of the Strategic Ohio Council of Higher Education (SOCHE) solicits proposals on a range of topics. There are generally one or two that pertain to the lab's research themes. 
@@ -35,18 +35,18 @@ If you are interested in one of these topics, please contact me at cogan(dot)shi
 ### Graduate Teaching Assistantships
 These positions are only open to students which have completed a course I have previously instructed and received at least an A mark. Final determination of GTAs, however, is made by the department. 
 
-**Unfortunately, there are currently no open positions.**
+**Unfortunately, there are currently no open positions in this category.**
 
 ### Master's Thesis Supervision
-If you are interested in completing your Master's Thesis in computer science and you are interested in knowledge engineering or neurosymbolic artificial intelligence (some example theses are given in the [research page](./research.md), please reach out to me at cogan(dot)shimizu(at)wright(dot)edu.
+If you are interested in completing your Master's Thesis in computer science and you are interested in knowledge engineering or neurosymbolic artificial intelligence (some example theses are given in the [research page](./research.md)), please reach out to me at cogan(dot)shimizu(at)wright(dot)edu.
 
 * During a Master's Thesis can count 6 credit hours of research towards your Program of Study, as well as an additional 3 credit hours of independent study. This means a reduction of 9 credit hours of formal coursework.
 
 ### Research Projects
-If you are interested in collaborating or conducting an exploratory (low pressure) project regarding one of the topics in the [research page](./research.md), please feel free to reach out to me at cogan(dot)shimizu(at)wright(dot)edu. **Please note that this is both unfunded, does not count as an independent study, and does not count as research hours! This is purely if you have personal interest in the topics.**
+If you are interested in collaborating or conducting an exploratory (low pressure) project regarding one of the topics in the [research page](./research.md), please feel free to reach out to me at cogan(dot)shimizu(at)wright(dot)edu. **Please note that this is not funded, does not count as an independent study, and does not count as research hours! This is purely if you have personal interest in the topics.**
 
 ### Independent Studies
-Please see the [research page](./research.md) for possible topics.
+Please see the [research page](./research.md) for possible topics. These can be scoped down to an appropriate level of effort and commitment.
 
 #### Requesting an Independent Study
 An independent study will always consist of a kick-off meeting at the start of the semester where we outline the specific trajectory of the course plan. It will be followed by 10 updates over the course of the semester where you will update progress on the particular topic. These updates will be brief, oral presentations coupled with a few (well-made) slides. A final report will be due at the end of the semester.
@@ -83,7 +83,7 @@ Occasionally, the lab requires additional personpower to complete fundamental re
 
 ### Undergraduate Scientific Programmer
 Occasionally, the lab has a need for expertise related to implementation of software systems, tools, or other artefacts. This role will require a high-performing student capable of independent discovery and execution of deliverables. The wage range is expected to be $13-$17/hr (depending on experience) at 10 hrs/week.
-**There is an open position in this category. Please apply on Handshake.**
+**There is an open position in this category! Please apply on Handshake.**
 
 ### Undergraduate Lab Manager
 Occasionally, the lab requires additional personpower to complete administrative duties. This might include helping schedule events, send and organize communications, 
