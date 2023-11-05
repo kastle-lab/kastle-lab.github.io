@@ -5,12 +5,12 @@
 3. [Graduate Teaching Assistantships](#graduate-teaching-assistantships)
 4. [Master's Thesis Supervision](#masters-thesis-supervision)
 5. [Research Projects](#research-projects)
-6.[Independent Studies](#independent-studies)
-7.[Departmental Honors Theses](#departmental-honors-theses)
-8.[Louis Stokes Alliance for Minority Participation (LSAMP) Scholars](#louis-stokes-alliance-for-minority-participation-lsamp-scholars)
-9.[Undergraduate Research Assistant ](#undergraduate-research-assistant-)
-10.[Undergraduate Scientific Programmer](#undergraduate-scientific-programmer)
-11.[Undergraduate Lab Manager](#undergraduate-lab-manager)
+6. [Independent Studies](#independent-studies)
+7. [Departmental Honors Theses](#departmental-honors-theses)
+8. [Louis Stokes Alliance for Minority Participation (LSAMP) Scholars](#louis-stokes-alliance-for-minority-participation-lsamp-scholars)
+9. [Undergraduate Research Assistant ](#undergraduate-research-assistant-)
+10. [Undergraduate Scientific Programmer](#undergraduate-scientific-programmer)
+11. [Undergraduate Lab Manager](#undergraduate-lab-manager)
 
 ### Graduate Research Assistantships
 A Graduate Research Assistant (GRA) is a funded position. This salary is usually $27,000 annual stipend, disbursed monthly, and 6 credit hours of tuition support. GRAs complete project work (i.e., a line of research that pertains to the funding source) and complete lab work (i.e., a line of research that generally cross-cuts multiple topics and supports the lab's research themes). The lab is primarily looking for students intending to complete their PhD.
