@@ -14,8 +14,9 @@ KASTLE Lab's mission is to
   * RX24-26: [Creation of Materials, Manufacturing and Design Knowledge Representation via Self-assembly of Ontology Design Patterns](https://www.soche.org/wp-content/uploads/2023/09/RX24-26.pdf)
 
 ## Recent News
+* Oct 2023 -- KASTLE Lab makes excellent showing at [Wright State University's Celebration of Undergraduate and Graduate Research](https://www.wright.edu/event/celebration-of-undergraduate-graduate-research-scholarship-and-creative-activities). All KASTLE Lab students who submitted an abstract were invited to submit posters. Antrea was nominated to give a Data Blitz! Take a look [here](./events/research_celeb_2023.md) for some pictures of the event!
 * Oct 2023 -- Brandon Dave gives an invited talk to the International Semantic Intelligence Conference 2023 titled _"Towards Understanding the Impact of Schema on Knowledge Graph Embeddings"_.
-* Sep 2023 -- KASTLE Lab wins [1.5MM award from the National Science Foundation], as the Education Gateway to the [Proto-OKN](https://proto-okn.info/). For more information, visit the [project website](https://edugate.cs.wright.edu/)
+* Sep 2023 -- KASTLE Lab wins [1.5MM award from the National Science Foundation](https://new.nsf.gov/tip/updates/nsf-invests-first-ever-prototype-open-knowledge-network), as the Education Gateway to the [Proto-OKN](https://proto-okn.info/). For more information, visit the [project website](https://edugate.cs.wright.edu/)
 * Aug 2023 -- Alexis Ellis, as a part of the KASTLE lab, is awarded $24.5K from AFRL/SOCHE and $15K to research how symbols can be used to semantically represent complex AI systems for the greater good.
 
 ## More Useful Links
