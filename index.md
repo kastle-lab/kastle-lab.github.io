@@ -8,10 +8,7 @@ KASTLE Lab's mission is to
 * advance the state of open curriculum in knowledge engineering and semantic technologies.
 
 ## Notices
-* Accepting Independent Studies, Master's Theses, Research Projects, LSAMP scholars, and more. Please see the [recruiting page](./recruiting.md) for more details.
-* Seeking students for [DAGSI](https://www.soche.org/college-students/dagsi-student-research/) topics:
-  * RX24-22: [Machine Learning for Polymer Solution Processing and Design](https://www.soche.org/wp-content/uploads/2023/09/RX22-24.pdf)
-  * RX24-26: [Creation of Materials, Manufacturing and Design Knowledge Representation via Self-assembly of Ontology Design Patterns](https://www.soche.org/wp-content/uploads/2023/09/RX24-26.pdf)
+* Accepting Independent Study requests, Master's Theses, Research Projects, LSAMP scholars, and more. Please see the [recruiting page](./recruiting.md) for more details.
 
 ## Recent News
 * Oct 2023 -- KASTLE Lab makes excellent showing at [Wright State University's Celebration of Undergraduate and Graduate Research](https://www.wright.edu/event/celebration-of-undergraduate-graduate-research-scholarship-and-creative-activities). All KASTLE Lab students who submitted an abstract were invited to submit posters. Antrea was nominated to give a Data Blitz! Take a look [here](./events/research_celeb_2023.md) for some pictures of the event!
