@@ -16,7 +16,7 @@
 * [Michael Mccain](https://github.com/Mechree) <br /> Undergraduate Research Assistant
 * [Evan Music](https://github.com/EvanMusic14) <br /> Undergraduate Scientific Programmer
 * [Anmol Saini](https://github.com/L30N1DAS) <br /> Undergraduate Research Assistant <br /> Departmental Honors Thesis
-* Dennis Young <br /> Louis Stokes Alliance for Minority Participation (LSAMP) Scholar
+* [Dennis Young](https://github.com/dyoung1023) <br /> Louis Stokes Alliance for Minority Participation (LSAMP) Scholar
 
 ### Affiliated Faculty
 * [Pascal Hitzler](https://pascal-hitzler.de) <br /> [Data Semantics Laboratory](https://daselab.org/) <br /> [Kansas State University](https://k-state.edu)
