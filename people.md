@@ -7,14 +7,13 @@
 * [Antrea Christou](https://github.com/antreac) <br /> M.S., Ph.D.
 * [Brandon Dave](https://github.com/threefinbdd) <br /> M.S., Ph.D.
 * [Alexis Ellis](https://github.com/AlexisEllis1997) <br /> Ph.D., DAGSI Fellow <br /> Dissertation
-* [Rakesh Kandula](https://github.com/Rakesh-Sri) <br /> M.S.
+* [Rakesh Kandula](https://github.com/Rakesh-Sri) <br /> M.S., Ph.D.
 * [Stacie Severyn](https://github.com/SNS21) <br /> Ph.D. <br /> Dissertation
 
 ### Undergraduate Students
 * [Ryann Crockett](https://github.com/ryryannc) <br /> Louis Stokes Alliance for Minority Participation (LSAMP) Scholar
 * [Divine Eziolise](https://github.com/Oluoma-Eziolise) <br /> Louis Stokes Alliance for Minority Participation (LSAMP) Scholar
 * [Michael Mccain](https://github.com/Mechree) <br /> Undergraduate Research Assistant
-* [Evan Music](https://github.com/EvanMusic14) <br /> Undergraduate Scientific Programmer
 * [Anmol Saini](https://github.com/L30N1DAS) <br /> Undergraduate Research Assistant <br /> Departmental Honors Thesis
 * [Dennis Young](https://github.com/dyoung1023) <br /> Louis Stokes Alliance for Minority Participation (LSAMP) Scholar
 
@@ -30,4 +29,5 @@
 
 ### Past Students & Alumni
 * [Andon LaFreniere](https://github.com/Andon-LaFreniere) <br /> Secondary School Researcher <br /> 2023.
+* [Evan Music](https://github.com/EvanMusic14) <br /> Undergraduate Scientific Programmer <br /> 2023-2024.
 * [Joshua Quaintance](https://github.com/JoshQuaintance) <br /> Undergraduate Scientific Programmer <br /> Left for Internship <br /> 2023.
