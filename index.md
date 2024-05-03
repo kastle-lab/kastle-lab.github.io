@@ -12,7 +12,7 @@ KASTLE Lab's mission is to
 
 ## Recent News
 * Apr 2023 -- Antrea Christou successfully defends her Master's Thesis! Congratulations!
-* Apr 2023 -- Brandon Dave successfully defends her Master's Thesis! Congratulations!
+* Apr 2023 -- Brandon Dave successfully defends his Master's Thesis! Congratulations!
 * Apr 2023 -- Alexis Ellis successfully passes her Candidacy Exam! Congratulations!
 * Mar 2023 -- Paper accepted to [HHAI 2024](https://hhai-conference.org/2024/). 
 * Nov 2023 -- Cogan Shimizu gives key note talk at the [14th Workshop on Ontology Design and Patterns](https://odpa.github.io/workshop-on-ontology-design-and-patterns/2023/index.html), co-located with [ISWC 2023](https://iswc2023.semanticweb.org/). 
