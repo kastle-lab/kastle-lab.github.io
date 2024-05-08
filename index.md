@@ -11,10 +11,11 @@ KASTLE Lab's mission is to
 * Accepting Independent Study requests, Master's Thesis Proposals, Research Projects, LSAMP scholars, and more. Please see the [recruiting page](./recruiting.md) for more details.
 
 ## Recent News
-* Apr 2023 -- Antrea Christou successfully defends her Master's Thesis! Congratulations!
-* Apr 2023 -- Brandon Dave successfully defends his Master's Thesis! Congratulations!
-* Apr 2023 -- Alexis Ellis successfully passes her Candidacy Exam! Congratulations!
-* Mar 2023 -- Paper accepted to [HHAI 2024](https://hhai-conference.org/2024/). 
+* May 2024 -- Brandon Dave and Anmol Saini wins DAGSI award!
+* Apr 2024 -- Antrea Christou successfully defends her Master's Thesis! Congratulations!
+* Apr 2024 -- Brandon Dave successfully defends his Master's Thesis! Congratulations!
+* Apr 2024 -- Alexis Ellis successfully passes her Candidacy Exam! Congratulations!
+* Mar 2024 -- Paper accepted to [HHAI 2024](https://hhai-conference.org/2024/). 
 * Nov 2023 -- Cogan Shimizu gives key note talk at the [14th Workshop on Ontology Design and Patterns](https://odpa.github.io/workshop-on-ontology-design-and-patterns/2023/index.html), co-located with [ISWC 2023](https://iswc2023.semanticweb.org/). 
 * Oct 2023 -- KASTLE Lab makes excellent showing at [Wright State University's Celebration of Undergraduate and Graduate Research](https://www.wright.edu/event/celebration-of-undergraduate-graduate-research-scholarship-and-creative-activities). All KASTLE Lab students who submitted an abstract were invited to submit posters. Antrea was nominated to give a Data Blitz! Take a look [here](./events/research_celeb_2023.md) for some pictures of the event!
 * Oct 2023 -- Brandon Dave gives an invited talk to the International Semantic Intelligence Conference 2023 titled _"Towards Understanding the Impact of Schema on Knowledge Graph Embeddings"_.
