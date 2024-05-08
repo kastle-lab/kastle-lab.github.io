@@ -2,6 +2,10 @@
 
 ### Current Projects
 #### [The Education Gateway for the Proto-OKN](https://edugate.cs.wright.edu/)
+Description
+* Funding Agency:
+* Timeline:
+
 
 #### [KnowWhereGraph](https://knowwheregraph.org/)
 
