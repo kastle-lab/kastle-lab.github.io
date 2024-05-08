@@ -4,7 +4,8 @@
 * [Cogan Shimizu](https://coganshimizu.com) <br /> Director
 
 ### Graduate Students
-* [Antrea Christou](https://github.com/antreac) <br /> M.S., Ph.D.
+
+* [Antrea Christou](https://github.com/antreac) <br /> Ph.D. <br /> Area of Research:``Exploring the effectiveness of Knowledge Graph Embeddings''. <br />  Funded by: NSF - "Proto-OKN Theme 3: An Education Gateway for the Proto-OKN (EduGate)"
 * [Brandon Dave](https://github.com/threefinbdd) <br /> M.S., Ph.D.
 * [Alexis Ellis](https://github.com/AlexisEllis1997) <br /> Ph.D., DAGSI Fellow <br /> Dissertation
 * [Rakesh Kandula](https://github.com/Rakesh-Sri) <br /> M.S., Ph.D.
