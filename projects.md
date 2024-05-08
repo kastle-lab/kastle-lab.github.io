@@ -6,7 +6,6 @@ Description
 * Funding Agency:
 * Timeline:
 
-
 #### [KnowWhereGraph](https://knowwheregraph.org/)
 
 ### Past Projects
