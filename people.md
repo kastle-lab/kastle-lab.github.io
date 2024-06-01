@@ -13,7 +13,7 @@
 
 ### Undergraduate Students
 * [Divine Eziolise](https://github.com/Oluoma-Eziolise) <br /> Louis Stokes Alliance for Minority Participation (LSAMP) Scholar
-* [Michael Mccain](https://github.com/Mechree) <br /> Undergraduate Research Assistant 
+* [Michael McCain](https://github.com/Mechree) <br /> Undergraduate Research Assistant 
 * [Dennis Young](https://github.com/dyoung1023) <br /> Louis Stokes Alliance for Minority Participation (LSAMP) Scholar
 
 ### Affiliated External Faculty
