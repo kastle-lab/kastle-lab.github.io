@@ -1,7 +1,7 @@
 ## Projects
 
 ### Current Projects
-* **[TASK-MATS: Task Adaption with Shared Knowledge for Multi-Agent Teaming Systems](./project-pages/task-mats**
+* **[TASK-MATS: Task Adaption with Shared Knowledge for Multi-Agent Teaming Systems](./project-pages/task-mats)**
   * DAGSI/SOCHE, DAGSI/AFRL (RX)
   * May 2024 -- Apr 2027
   * Student PI: Brandon Dave
