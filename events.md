@@ -1,9 +1,14 @@
 ## Events & Talks
 
 ### KASTLE Speaker Series
-* [**Hande Küçük McGinty**](https://www.handemcginty.com/), Kansas State University <br /> TBD <br /> 06/10/24
-* **Lee Hannah**, Wright State University <br /> Green Rush: The Rise of Medical Marijuana in the United States | [slides](./events/speaker-series-slide-decks/2024-kss-hannah.pdf) <br /> 03/28/24
-* **Thomas Thelen**, Consultant <br /> Geospatial data acquisition & analysis: with KnowWhereGraph & QGIS | [slides](./events/speaker-series-slide-decks/2024-kss-thelen.pdf) <br /> 02/15/2024
+* [**Hande Küçük McGinty**](https://www.handemcginty.com/), Kansas State University <br />
+Title TBD | slides <br />
+06/10/24
+* **Lee Hannah**, Wright State University <br /> Green Rush: The Rise of Medical Marijuana in the United States | [slides](./events/speaker-series-slide-decks/2024-kss-hannah.pdf) <br /> 
+03/28/24
+* **Thomas Thelen**, Consultant <br />
+Geospatial data acquisition & analysis: with KnowWhereGraph & QGIS | [slides](./events/speaker-series-slide-decks/2024-kss-thelen.pdf) <br /> 
+02/15/2024
 
 ### Invited Talks
 * **KnowWhereGraph for Sustainability** <br />
