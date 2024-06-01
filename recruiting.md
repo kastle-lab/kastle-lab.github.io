@@ -1,5 +1,7 @@
 ## Recruiting
 
+Below are a list of different type of opportunities. Please read carefully about each opportunity, and investigate opportunities personally, in addition to inquiring. Thanks!
+
 1. [Graduate Research Assistantships](#graduate-research-assistantships)
 2. [DAGSI Fellowships](#dagsi-fellowships)
 3. [Graduate Teaching Assistantships](#graduate-teaching-assistantships)
@@ -24,13 +26,9 @@ These positions are only open to students that have completed at least one of th
 **Unforunately, there are currently no open positions in this category.**
 
 ### DAGSI Fellowships
-Each year, the Defense Associated Graduate Student Innovators (DAGSI) program, as an arm of the Strategic Ohio Council of Higher Education (SOCHE) solicits proposals on a range of topics. There are generally one or two that pertain to the lab's research themes. 
+Each year, the [Defense Associated Graduate Student Innovators (DAGSI) program](https://www.soche.org/college-students/dagsi-student-research/), as an arm of the Strategic Ohio Council of Higher Education (SOCHE) solicits proposals on a range of topics. There are generally one or two that pertain to the lab's research themes. 
 
-Currently (2024), the following are pertinent topics:
-* RX24-22: [Machine Learning for Polymer Solution Processing and Design](https://www.soche.org/wp-content/uploads/2023/09/RX22-24.pdf)
-* RX24-26: [Creation of Materials, Manufacturing and Design Knowledge Representation via Self-assembly of Ontology Design Patterns](https://www.soche.org/wp-content/uploads/2023/09/RX24-26.pdf)
-
-If you are interested in one of these topics, please contact me at cogan(dot)shimizu(at)wright(dot)edu.
+If you are interested in a DAGSI topic that aligns with KASTLE research themes, please contact me at cogan(dot)shimizu(at)wright(dot)edu.
 
 ### Graduate Teaching Assistantships
 These positions are only open to students which have completed a course I have previously instructed and received at least an A mark. Final determination of GTAs, however, is made by the department. 
