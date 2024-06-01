@@ -36,20 +36,25 @@ These positions are only open to students which have completed a course I have p
 **Unfortunately, there are currently no open positions in this category.**
 
 ### Master's Thesis Supervision
-If you are interested in completing your Master's Thesis in computer science and you are interested in knowledge engineering or neurosymbolic artificial intelligence (some example theses are given in the [research page](./research.md)), please reach out to me at cogan(dot)shimizu(at)wright(dot)edu.
+If you are interested in completing your Master's Thesis in Computer Science (MSCS) and you are interested in knowledge engineering or neurosymbolic artificial intelligence (some possible topics are given on the [research page](./research.md)), please reach out to me at cogan(dot)shimizu(at)wright(dot)edu.
 
-* During a Master's Thesis can count 6 credit hours of research towards your Program of Study, as well as an additional 3 credit hours of independent study. This means a reduction of 9 credit hours of formal coursework.
+* During the completion of a Master's Thesis, a student may count up to 9 credit hours of research towards your Program of Study, as well as an additional 3 credit hours of independent study. This means a reduction of 12 credit hours of formal coursework. Please see the [course catalog](https://catalog.wright.edu/preview_program.php?poid=19624&catoid=23) for additional information.
+* Please note that these are generally unfunded positions, but pending the availability of funds, can turn into a funded GRA position.
 
 ### Research Projects
-If you are interested in collaborating or conducting an exploratory (low pressure) project regarding one of the topics in the [research page](./research.md), please feel free to reach out to me at cogan(dot)shimizu(at)wright(dot)edu. **Please note that this is not funded, does not count as an independent study, and does not count as research hours! This is purely if you have personal interest in the topics.**
+If you are interested in collaborating or conducting an exploratory voluntary project regarding one of the topics in the [research page](./research.md), please feel free to reach out to me at cogan(dot)shimizu(at)wright(dot)edu. **Please note that this is not funded, does not count as an independent study (see below), and does not count as research hours! This is purely if you have personal interest in the topics.**
 
 ### Independent Studies
-Please see the [research page](./research.md) for possible topics. These can be scoped down to an appropriate level of effort and commitment.
+Please see the [research page](./research.md) for possible topics. These can be scoped to an appropriate level of effort and commitment.
 
 #### Requesting an Independent Study
-An independent study will always consist of a kick-off meeting at the start of the semester where we outline the specific trajectory of the course plan. It will be followed by 10 updates over the course of the semester where you will update progress on the particular topic. These updates will be brief, oral presentations coupled with a few (well-made) slides. A final report will be due at the end of the semester.
+An independent study will always consist of a kick-off meeting at the start of the semester where we outline the specific trajectory of the course plan. It will be followed by at least 10 updates over the course of the semester where  progress will be reported. These updates will be reasonable, oral presentations coupled with a few (well-made) slides. A final report (or presentation) will be due (or conducted) at the end of the semester. There are several example topics on the [research page](./research.md). 
 
-There are several example topics on the [research page](./research.md). These should be used as an initial guideline or selection before initiating the following steps:
+**The lab cannot currently support any additional students in this capacity for Summer semester 2024.**
+
+**The lab can currently support up to two more students at the undergraduate level and up to two more students at the graduate level in this capacity for Fall semester 2024.**
+
+To initiate requesting an independent study, please complete the following steps:
 1. Contact me via e-mail or schedule a meeting via my [booking page](https://doodle.com/bp/cogan/meetings-with-cogan).
 2. Please be prepared to discuss a topic
 	1. If e-mail, please include your proposed topic(s) description in the e-mail.
@@ -68,21 +73,28 @@ To file the independent study, after we have agreed on a topic, please take the 
 10. Submit form to department office.
 
 ### Departmental Honors Theses
-The lab welcomes high-performing students that wish to complete their Departmental Honors Thesis (DHT). You will have access to the lab's resources and support structures during the research period. A DHT comprises two 3-credit hour indenpendent studies, with the intent to **(a)** conduct a research project and **(b)** give formal presentation over a written deliverable encapsulating the research project. The lab is primarily interested in DHT topics as listed in the [research page](./research.md). If you are interested in completing a DHT against one of those topics under the (collective) supervision of the lab, reach out to me at cogan(dot)shimizu(at)wright(dot)edu.
+The lab welcomes high-performing undergraduate students that wish to complete a [Departmental Honors Thesis (DHT)](https://engineering-computer-science.wright.edu/computer-science-and-engineering/departmental-honors-program). You will have access to the lab's resources and support structures during the research period. A DHT comprises two 3-credit hour independent studies, with the intent to **(a)** conduct a research project and **(b)** give formal presentation over a written deliverable encapsulating the research project. The lab is primarily interested in DHT topics as listed in the [research page](./research.md). If you are interested in completing a DHT against one of those topics under the (collective) supervision of the lab, reach out to me at cogan(dot)shimizu(at)wright(dot)edu.
+
+**The lab can currently support up two more students in this capacity.**
 
 ### Louis Stokes Alliance for Minority Participation (LSAMP) Scholars
-The lab is committed to maintaining a diverse, inclusive, and equitable environment and membership, as well as improving such qualities in the broader computer science ecosystem. As such, we always welcome new applicants. This is a competitive process, and one must choose a research topic from the [research page](./research.md) and apply to the program. Successful award is a $2,250 disbursal to your bursar's account, and should be interpreted as 10hr/week appointment for the semester.
+The lab is committed to maintaining a diverse, inclusive, and equitable environment and membership, as well as improving such qualities in the broader computer science ecosystem. As such, **we always welcome new undergraduate applicants**. This is a competitive process, and one must choose a research topic from the [research page](./research.md) and apply to the program. Successful award is (usually) a $2,250 disbursal to your bursar's account, and should be interpreted as 10hr/week appointment for the semester. This award is on a semester-by-semester basis, and is usually administered by [Dr. Klingbeil](https://people.wright.edu/nathan.klingbeil), so please keep an eye out for his communications.
 
-If you are interested in joining the lab to conduct research under the (collective) supervision of the lab, reach out to me at cogan(dot)shimizu(at)wright(dot)edu.
+If you are interested in joining the lab under this mechanism to conduct research under the (collective) supervision of the lab, reach out to me at cogan(dot)shimizu(at)wright(dot)edu.
+
+**The lab can currently support up two more students in this capacity.**
 
 ### Undergraduate Research Assistant 
 Occasionally, the lab requires additional personpower to complete fundamental research tasks. This might include data collection, literature review, and experimental design and execution.
+
 **Unfortunately, there are currently no open positions in this category.**
 
 ### Undergraduate Scientific Programmer
 Occasionally, the lab has a need for expertise related to implementation of software systems, tools, or other artefacts. This role will require a high-performing student capable of independent discovery and execution of deliverables. The wage range is expected to be $13-$17/hr (depending on experience) at 10 hrs/week.
-**There is an open position in this category! Please apply on Handshake.**
+
+**Unfortunately, there are currently no open positions in this category.**
 
 ### Undergraduate Lab Manager
-Occasionally, the lab requires additional personpower to complete administrative duties. This might include helping schedule events, send and organize communications, 
+Occasionally, the lab requires additional personpower to complete administrative duties. This might include helping schedule events, send and organize communications, and so on.
+
 **Unfortunately, there are currently no open positions in this category.**
