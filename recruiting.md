@@ -5,11 +5,11 @@ Below are a list of different type of opportunities. Please read carefully about
 1. [Graduate Research Assistantships](#graduate-research-assistantships)
 2. [DAGSI Fellowships](#dagsi-fellowships)
 3. [Graduate Teaching Assistantships](#graduate-teaching-assistantships)
-4. [Master's Thesis Supervision](#masters-thesis-supervision)
-5. [Research Projects](#research-projects)
-6. [Independent Studies](#independent-studies)
-7. [Departmental Honors Theses](#departmental-honors-theses)
-8. [Louis Stokes Alliance for Minority Participation (LSAMP) Scholars](#louis-stokes-alliance-for-minority-participation-lsamp-scholars)
+4. [Master's Thesis Supervision](#masters-thesis-supervision) **OPENINGS**
+5. [Research Projects](#research-projects) **OPENINGS**
+6. [Independent Studies](#independent-studies) **OPENINGS**
+7. [Departmental Honors Theses](#departmental-honors-theses) **OPENINGS**
+8. [Louis Stokes Alliance for Minority Participation (LSAMP) Scholars](#louis-stokes-alliance-for-minority-participation-lsamp-scholars) **OPENINGS**
 9. [Undergraduate Research Assistant ](#undergraduate-research-assistant-)
 10. [Undergraduate Scientific Programmer](#undergraduate-scientific-programmer)
 11. [Undergraduate Lab Manager](#undergraduate-lab-manager)
