@@ -34,12 +34,21 @@ KASTLE Lab and its members are currently supported by the following awards.
 KASTLE lab engages in intramural research via different mechanisms.
 
 #### Independent Studies
-Independent studies 
+Independent studies can be in support of thesis research (i.e., tangential or broadening of scope), or simply an interesting project along KASTLE lab research themes. 
 * Exploring The Effectiveness of KG Embeddings <br />
-Summer 2024 <br />
+Ph.D. | Summer 2024 <br />
 Antrea Christou
+* Analyzing CoModIDE Telemetry Data
+M.S. | [Project Page](https://github.com/comodide/telemetry-analysis) | Summer 2024 <br />
+Akshay Priyadarshi
+* Improving CoModIDE Architecture, Functionality, and Documentation
+M.S. | [Project Page](https://github.com/comodide/comodide) | Summer 2024 <br />
+Margish Alpesh Sangani, Ambar Shrivastava
+* Integrating Satellite Imagery into a Multi-Modal Knowledge Graph <br />
+B.S. | Summer 2024 <br />
+Michael McCain
 * Dynamically Creating KG Views from Module Metadata <br />
-Summer 2023 <br />
+M.S. | Summer 2023 <br />
 Antrea Christou
 
 #### LSAMP Scholarship Projects
