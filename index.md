@@ -11,7 +11,7 @@ KASTLE Lab's mission is to
 * Accepting Independent Study requests, Master's Thesis Proposals, Research Projects, LSAMP scholars, and more. Please see the [recruiting page](./recruiting.md) for more details.
 
 ## Recent News
-* May 2024 -- Brandon Dave and Anmol Saini wins DAGSI award!
+* May 2024 -- Brandon Dave and Anmol Saini win DAGSI awards!
 * Apr 2024 -- Antrea Christou successfully defends her Master's Thesis! Congratulations!
 * Apr 2024 -- Brandon Dave successfully defends his Master's Thesis! Congratulations!
 * Apr 2024 -- Alexis Ellis successfully passes her Candidacy Exam! Congratulations!
