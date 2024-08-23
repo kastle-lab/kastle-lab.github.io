@@ -31,9 +31,9 @@ Each year, the [Defense Associated Graduate Student Innovators (DAGSI) program](
 If you are interested in a DAGSI topic that aligns with KASTLE research themes, please contact me at cogan(dot)shimizu(at)wright(dot)edu.
 
 ### Graduate Teaching Assistantships
-These positions are only open to students which have completed a course I have previously instructed and received at least an A mark. Final determination of GTAs, however, is made by the department. 
+I may make _informal_ recommendations for those students which have completed a course where I was the instructor, and the student received an A mark. Final determination of GTA positions, however, is made by the department _and I do not have any final say_. 
 
-**Unfortunately, there are currently no open positions in this category.**
+**Do not e-mail me about such positions, as the e-mail will be discarded without response. Thank you.**
 
 ### Master's Thesis Supervision
 If you are interested in completing your Master's Thesis in Computer Science (MSCS) and you are interested in knowledge engineering or neurosymbolic artificial intelligence (some possible topics are given on the [research page](./research.md)), please reach out to me at cogan(dot)shimizu(at)wright(dot)edu.
