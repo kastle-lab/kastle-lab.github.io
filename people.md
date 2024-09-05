@@ -10,6 +10,7 @@
 * [Rakesh Kandula](https://github.com/Rakesh-Sri) <br /> M.S., Ph.D.
 * [Anmol Saini](https://github.com/L30N1DAS) <br /> M.S., Ph.D. <br /> Departmental Honors Thesis (completed)
 * [Stacie Severyn](https://github.com/SNS21) <br /> Ph.D. <br /> Dissertation
+* [Chris Davis Jaldi](https://github.com/chrisdavisj) <br /> M.S.
 
 ### Undergraduate Students
 * [Divine Eziolise](https://github.com/Oluoma-Eziolise) <br /> Louis Stokes Alliance for Minority Participation (LSAMP) Scholar
