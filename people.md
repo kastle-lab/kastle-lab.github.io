@@ -4,11 +4,11 @@
 * [Cogan Shimizu](https://coganshimizu.com) <br /> Director
 
 ### Graduate Students
-* [Antrea Christou](https://github.com/antreac) <br /> Ph.D. <br /> Area of Research:``Exploring the effectiveness of Knowledge Graph Embeddings''. <br />  Funded by: NSF - "Proto-OKN Theme 3: An Education Gateway for the Proto-OKN (EduGate)"
-* [Brandon Dave](https://github.com/threefinbdd) <br /> Ph.D., DAGSI Fellow <br /> Area(s) of Research: Neuro-symbolic AI, Self-Assembling Ontology, Task Adaptation with Shared Knowledge for Multi-Agent Teaming Systems <br /> Funded by: AFRL
-* [Alexis Ellis](https://github.com/AlexisEllis1997) <br /> Ph.D., DAGSI Fellow  <br /> Area of Research: Neuro-symbolic AI, Human Factors Engineering, UX/UI Design. <br /> Funded by: State of Ohio
+* [Antrea Christou](https://github.com/antreac) <br /> M.S. (completed), Ph.D. <br /> Research Topics: Knowledge Graph Embeddings <br />  Funded by: NSF - "Proto-OKN Theme 3: An Education Gateway for the Proto-OKN (EduGate)"
+* [Brandon Dave](https://github.com/threefinbdd) <br /> Ph.D. (DAGSI Fellow) <br /> Research Topics: Neurosymbolic AI, Self-Assembling Ontology,  <br /> Funded by: DAGSI/AFRL, DAGSI/SOCHE - "Task Adaptation with Shared Knowledge for Multi-Agent Teaming Systems"
+* [Alexis Ellis](https://github.com/AlexisEllis1997) <br /> Ph.D. (DAGSI Fellow)  <br /> Research Topics: Neurosymbolic AI, Human Factors Engineering, UX/UI Design. <br /> Funded by: State of Ohio
 * [Chris Davis Jaldi](https://github.com/chrisdavisj) <br /> M.S. (non-thesis) <br /> Funded by: NSF - "Proto-OKN Theme 3: An Education Gateway for the Proto-OKN (EduGate)"
-* [Anmol Saini](https://github.com/L30N1DAS) <br /> M.S., Ph.D. <br /> Departmental Honors Thesis (completed)
+* [Anmol Saini](https://github.com/L30N1DAS) <br /> DHT (completed), Ph.D. (DAGSI Fellow) <br /> 
 * [Stacie Severyn](https://github.com/SNS21) <br /> Ph.D. <br /> Dissertation
 
 ### Undergraduate Students
