@@ -1,6 +1,16 @@
-- **Commonsense ontology micropatterns** : Andrew Eells, Brandon Dave, Pascal Hitzler, <u>Cogan Shimizu</u>. In : CoRR (2024) to appear.
+- **Accelerating Knowledge Graph and Ontology Engineering with Large Language Models**: Cogan Shimizu, Pascal Hitzler.
 
-- **Modular ontology modeling** : <u>Cogan Shimizu</u>, Karl Hammar, Pascal Hitzler. In : Semantic Web (2023) to appear.
+- **Towards a Global Food Systems Datahub**: Hande Küçük-McGinty, <u>Cogan Shimizu</u>, Pascal Hitzler, Ajay Sharda. In: Semantic Web 15(4): 1129-1132 (2024)
+
+- **Food process ontology requirements**: Damion M. Dooley, Magalie Weber, Liliana Ibanescu, Matthew Lange, Lauren E. Chan, Larisa N. Soldatova, Chen Yang, Robert Warren, <u>Cogan Shimizu</u>, Hande McGinty, William Hsiao. In: Semantic Web 15(4): 1133-1164 (2024)
+
+- **EASY-AI: sEmantic And compoSable glYphs for representing AI systems**: <u>Alexis Ellis</u>, <u>Brandon Dave</u>, Hugh Salehi, Subhashini Ganapathy, <u>Cogan Shimizu</u>. In: HHAI 2024: 105-113
+
+- **Towards Understanding the Impact of Graph Structure on Knowledge Graph Embeddings**: <u>Brandon Dave</u>, Antrea Christou, <u>Cogan Shimizu</u>. In: NeSy (2) 2024: 41-50
+
+- **Commonsense Ontology Micropatterns**: <u>Andrew Eells</u>, <u>Brandon Dave</u>, Pascal Hitzler, <u>Cogan Shimizu</u>. In: NeSy (2) 2024: 51-59
+
+- **Modular ontology modeling** : <u>Cogan Shimizu</u>, Karl Hammar, Pascal Hitzler. In: Semantic Web 14(3): 459-489 (2023).
 
 - **Besoins ontologiques pour la transformation des aliments** : Damion M. Dooley, Magalie Weber, Liliana Ibanescu, Matthew Lange, Lauren E. Chan, Larisa N. Soldatova, Chen Yang, Robert Warren, <u>Cogan Shimizu</u>, Hande McGinty, William Hsiao. In : 34es journ es francophones d’ing nierie des connaissances, 2023, @ plate-forme intelligence artificielle, 2023, strasbourg, france, july 05-07, 2023 (2023) to appear.
 
