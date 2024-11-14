@@ -1,4 +1,4 @@
-- **Accelerating Knowledge Graph and Ontology Engineering with Large Language Models**: Cogan Shimizu, Pascal Hitzler.
+- **Accelerating Knowledge Graph and Ontology Engineering with Large Language Models**: Cogan Shimizu, Pascal Hitzler. [paper.pdf](https://kastle-lab.github.io/assets/publications/2024_jws_llms_kg_oe.pdf)
 
 - **Towards a Global Food Systems Datahub**: Hande Küçük-McGinty, <u>Cogan Shimizu</u>, Pascal Hitzler, Ajay Sharda. In: Semantic Web 15(4): 1129-1132 (2024)
 
