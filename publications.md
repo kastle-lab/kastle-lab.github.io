@@ -2,7 +2,7 @@
 
 - **Towards a Global Food Systems Datahub**: Hande Küçük-McGinty, <u>Cogan Shimizu</u>, Pascal Hitzler, Ajay Sharda. In: Semantic Web 15(4): 1129-1132 (2024)
 
-- **Food process ontology requirements**: Damion M. Dooley, Magalie Weber, Liliana Ibanescu, Matthew Lange, Lauren E. Chan, Larisa N. Soldatova, Chen Yang, Robert Warren, <u>Cogan Shimizu</u>, Hande McGinty, William Hsiao. In: Semantic Web 15(4): 1133-1164 (2024)
+- **Food process ontology requirements**: Damion M. Dooley, Magalie Weber, Liliana Ibanescu, Matthew Lange, Lauren E. Chan, Larisa N. Soldatova, Chen Yang, Robert Warren, <u>Cogan Shimizu</u>, Hande McGinty, William Hsiao. In: Semantic Web 15(4): 1133-1164 (2024). [paper.pdf](https://content.iospress.com/download/semantic-web/sw223096?id=semantic-web%2Fsw223096)
 
 - **EASY-AI: sEmantic And compoSable glYphs for representing AI systems**: <u>Alexis Ellis</u>, <u>Brandon Dave</u>, Hugh Salehi, Subhashini Ganapathy, <u>Cogan Shimizu</u>. In: HHAI 2024: 105-113
 
