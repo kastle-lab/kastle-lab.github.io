@@ -10,7 +10,7 @@
 
 - **Commonsense Ontology Micropatterns**: <u>Andrew Eells</u>, <u>Brandon Dave</u>, Pascal Hitzler, <u>Cogan Shimizu</u>. In: NeSy (2) 2024: 51-59 [paper.pdf](https://arxiv.org/pdf/2402.18715)
 
-- **Modular ontology modeling** : <u>Cogan Shimizu</u>, Karl Hammar, Pascal Hitzler. In: Semantic Web 14(3): 459-489 (2023).
+- **Modular ontology modeling** : <u>Cogan Shimizu</u>, Karl Hammar, Pascal Hitzler. In: Semantic Web 14(3): 459-489 (2023). [paper.pdf](https://content.iospress.com/download/semantic-web/sw222886?id=semantic-web%2Fsw222886)
 
 - **Besoins ontologiques pour la transformation des aliments** : Damion M. Dooley, Magalie Weber, Liliana Ibanescu, Matthew Lange, Lauren E. Chan, Larisa N. Soldatova, Chen Yang, Robert Warren, <u>Cogan Shimizu</u>, Hande McGinty, William Hsiao. In : 34es journ es francophones d’ing nierie des connaissances, 2023, @ plate-forme intelligence artificielle, 2023, strasbourg, france, july 05-07, 2023 (2023) to appear.
 
