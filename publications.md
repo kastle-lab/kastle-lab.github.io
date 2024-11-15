@@ -8,7 +8,7 @@
 
 - **Towards Understanding the Impact of Graph Structure on Knowledge Graph Embeddings**: <u>Brandon Dave</u>, Antrea Christou, <u>Cogan Shimizu</u>. In: NeSy (2) 2024: 41-50
 
-- **Commonsense Ontology Micropatterns**: <u>Andrew Eells</u>, <u>Brandon Dave</u>, Pascal Hitzler, <u>Cogan Shimizu</u>. In: NeSy (2) 2024: 51-59
+- **Commonsense Ontology Micropatterns**: <u>Andrew Eells</u>, <u>Brandon Dave</u>, Pascal Hitzler, <u>Cogan Shimizu</u>. In: NeSy (2) 2024: 51-59 [paper.pdf](https://arxiv.org/pdf/2402.18715)
 
 - **Modular ontology modeling** : <u>Cogan Shimizu</u>, Karl Hammar, Pascal Hitzler. In: Semantic Web 14(3): 459-489 (2023).
 
