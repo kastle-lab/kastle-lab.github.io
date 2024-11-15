@@ -12,7 +12,7 @@
 
 - **Modular ontology modeling** : <u>Cogan Shimizu</u>, Karl Hammar, Pascal Hitzler. In: Semantic Web 14(3): 459-489 (2023). [paper.pdf](assets/publications/2023-modular-ontology-modeling.pdf)
 
-- **Besoins ontologiques pour la transformation des aliments** : Damion M. Dooley, Magalie Weber, Liliana Ibanescu, Matthew Lange, Lauren E. Chan, Larisa N. Soldatova, Chen Yang, Robert Warren, <u>Cogan Shimizu</u>, Hande McGinty, William Hsiao. In : 34es journ es francophones d’ing nierie des connaissances, 2023, @ plate-forme intelligence artificielle, 2023, strasbourg, france, july 05-07, 2023 (2023) to appear.
+- **Besoins ontologiques pour la transformation des aliments** : Damion M. Dooley, Magalie Weber, Liliana Ibanescu, Matthew Lange, Lauren E. Chan, Larisa N. Soldatova, Chen Yang, Robert Warren, <u>Cogan Shimizu</u>, Hande McGinty, William Hsiao. In : 34es journ es francophones d’ing nierie des connaissances, 2023, @ plate-forme intelligence artificielle, 2023, strasbourg, france, july 05-07, 2023 (2023) to appear. [paper.pdf](assets/publications/2023-besoins-ontologiques-pour-la-transoformation-des-aliments.pdf)
 
 - **The KnowWhereGraph ontology: showcase** : <u>Cogan Shimizu</u>, Shirly Stephen, Rui Zhu, Kitty Currier, Mark Schildhauer, Dean Rehberger, Pascal Hitzler, Krzysztof Janowicz, Colby K. Fisher, Mohammad Saeid Mahdavinejad, Antrea Christou, Adrita Barua, Abhilekha Dalal, Sanaz Saki Norouzi, Zilong Liu, Meilin Shi, Ling Cai, Gengchen Mai, Zhangyu Wang, Yuanyuan Tian. In : Proceedings of the joint ontology workshops 2023 episode The quebec summer of ontology co-located with the 13th international conference on formal ontology in information systems 2023), sherbrooke, qu bec, canada, july 19-20, 2023 (2023) to appear. [paper.pdf](assets/publications/2023-kwg-ontology-showcase.pdf)
 
@@ -29,11 +29,11 @@
 
 - **An ontology design pattern for role-dependent names** : Rushrukh Rayan, <u>Cogan Shimizu</u>, Pascal Hitzler. In : Proceedings of the 14th workshop on ontology design and patterns 2023) co-located with the 22nd international semantic web conference 2023), athens, greece, november 06, 2023 (2023) to appear. [paper.pdf](assets/publications/2023-ontology-design-pattern-role-dependent-names.pdf)
 
-- **Tutorials at the web conference 2023** : Valeria Fionda, Olaf Hartig, Reyhaneh Abdolazimi, Sihem Amer-Yahia, Hongzhi Chen, Xiao Chen, Peng Cui, Jeffrey Dalton, Xin Luna Dong, Lisette Espı́n-Noboa, Wenqi Fan, Manuela Fritz, Quan Gan, Jingtong Gao, Xiaojie Guo, Torsten Hahmann, Jiawei Han, Soyeon Caren Han, Estevam Hruschka, Liang Hu, Jiaxin Huang, Utkarshani Jaimini, Olivier Jeunen, Yushan Jiang, Fariba Karimi, George Karypis, Krishnaram Kenthapadi, Himabindu Lakkaraju, Hady W. Lauw, Thai Le, Trung-Hoang Le, Dongwon Lee, Geon Lee, Liat Levontin, Cheng-Te Li, Haoyang Li, Ying Li, Jay Chiehen Liao, Qidong Liu, Usha Lokala, Ben London, Siqu Long, Hande Küçük-McGinty, Yu Meng, Seungwhan Moon, Usman Naseem, Pradeep Natarajan, Behrooz Omidvar-Tehrani, Zijie Pan, Devesh Parekh, Jian Pei, Tiago Peixoto, Steven Pemberton, Josiah Poon, Filip Radlinski, Federico Rossetto, Kaushik Roy, Aghiles Salah, Mehrnoosh Sameki, Amit P. Sheth, <u>Cogan Shimizu</u>, Kijung Shin, Dongjin Song, Julia Stoyanovich, Dacheng Tao, Johanne Trippas, Quoc Truong, Yu-Che Tsai, Adaku Uchendu, Bram Akker, Lin Wang, Minjie Wang, Shoujin Wang, Xin Wang, Ingmar Weber, Henry Weld, Lingfei Wu, Da Xu, Yifan Ethan Xu, Shuyuan Xu, Bo Yang, Ke Yang, Elad Yom-Tov, Jaemin Yoo, Zhou Yu, Reza Zafarani, Hamed Zamani, Meike Zehlike, Qi Zhang, Xikun Zhang, Yongfeng Zhang, Yu Zhang, Zheng Zhang, Liang Zhao, Xiangyu Zhao, Wenwu Zhu. In : Companion proceedings of the web conference 2023, 2023, austin, TX, USA, 30 april 2023 - 4 may 2023 (2023) to appear.
+- **Tutorials at the web conference 2023** : Valeria Fionda, Olaf Hartig, Reyhaneh Abdolazimi, Sihem Amer-Yahia, Hongzhi Chen, Xiao Chen, Peng Cui, Jeffrey Dalton, Xin Luna Dong, Lisette Espı́n-Noboa, Wenqi Fan, Manuela Fritz, Quan Gan, Jingtong Gao, Xiaojie Guo, Torsten Hahmann, Jiawei Han, Soyeon Caren Han, Estevam Hruschka, Liang Hu, Jiaxin Huang, Utkarshani Jaimini, Olivier Jeunen, Yushan Jiang, Fariba Karimi, George Karypis, Krishnaram Kenthapadi, Himabindu Lakkaraju, Hady W. Lauw, Thai Le, Trung-Hoang Le, Dongwon Lee, Geon Lee, Liat Levontin, Cheng-Te Li, Haoyang Li, Ying Li, Jay Chiehen Liao, Qidong Liu, Usha Lokala, Ben London, Siqu Long, Hande Küçük-McGinty, Yu Meng, Seungwhan Moon, Usman Naseem, Pradeep Natarajan, Behrooz Omidvar-Tehrani, Zijie Pan, Devesh Parekh, Jian Pei, Tiago Peixoto, Steven Pemberton, Josiah Poon, Filip Radlinski, Federico Rossetto, Kaushik Roy, Aghiles Salah, Mehrnoosh Sameki, Amit P. Sheth, <u>Cogan Shimizu</u>, Kijung Shin, Dongjin Song, Julia Stoyanovich, Dacheng Tao, Johanne Trippas, Quoc Truong, Yu-Che Tsai, Adaku Uchendu, Bram Akker, Lin Wang, Minjie Wang, Shoujin Wang, Xin Wang, Ingmar Weber, Henry Weld, Lingfei Wu, Da Xu, Yifan Ethan Xu, Shuyuan Xu, Bo Yang, Ke Yang, Elad Yom-Tov, Jaemin Yoo, Zhou Yu, Reza Zafarani, Hamed Zamani, Meike Zehlike, Qi Zhang, Xikun Zhang, Yongfeng Zhang, Yu Zhang, Zheng Zhang, Liang Zhao, Xiangyu Zhao, Wenwu Zhu. In : Companion proceedings of the web conference 2023, 2023, austin, TX, USA, 30 april 2023 - 4 may 2023 (2023) to appear. [paper.pdf](assets/publications/2023-tutorials-web-conference.pdf)
 
 - **Sustainable grain transportation in ukraine amidst war utilizing and KnowWhereGraph** : Yinglun Zhang, Antonina Broyaka, Jude Kastens, Allen M. Featherstone, <u>Cogan Shimizu</u>, Pascal Hitzler, Hande Küçük-McGinty. In : Companion proceedings of the web conference 2023, 2023, austin, TX, USA, 30 april 2023 - 4 may 2023 (2023) to appear. [paper.pdf](assets/publications/2023-sustainable-grain-transportation-in-ukraine.pdf)
 
-- **Proceedings of the joint ontology workshops 2023 episode The quebec summer of ontology co-located with the 13th international conference on formal ontology in information systems 2023), sherbrooke, qu bec, canada, july 19-20, 2023** : Unknown Author. In : (2023) to appear.
+- **Proceedings of the joint ontology workshops 2023 episode The quebec summer of ontology co-located with the 13th international conference on formal ontology in information systems 2023), sherbrooke, qu bec, canada, july 19-20, 2023** : Unknown Author. In : (2023) to appear. [webpage](https://ceur-ws.org/Vol-3637/)
 
 - **An ontology design pattern for role-dependent names** : Rushrukh Rayan, <u>Cogan Shimizu</u>, Pascal Hitzler. In : CoRR (2023) to appear. [paper.pdf](assets/publications/2023-ontology-design-pattern-role-dependent-names.pdf)
 
@@ -69,7 +69,7 @@
 
 - **Automatically generating human readable documentation for ontology design patterns** : <u>Cogan Shimizu</u>, Pascal Hitzler. In : Proceedings of the 2021 posters, demos and industry tracks: From novel ideas to industrial practice co-located with 20th international semantic web conference 2021), virtual conference, october 24-28, 2021 (2021) to appear. [paper.pdf](assets/publications/2021-automatically-generating-human-readable-docs-for-ontology-design-patterns.pdf)
 
-- **Towards a modular ontology for space weather research** : <u>Cogan Shimizu</u>, Ryan M. McGranaghan, Aaron Eberhart, Adam C. Kellerman. In : Advances in pattern-based ontology engineering, extended versions of the papers published at the workshop on ontology design and patterns (2021) to appear. [paper.pdf](assets/publications/2021-towards-modular-ontology-space-weather.pdf)
+- **Towards a modular ontology for space weather research** : <u>Cogan Shimizu</u>, Ryan M. McGranaghan, Aaron Eberhart, Adam C. Kellerman. In : Advances in pattern-based ontology engineering, extended versions of the papers published at the workshop on ontology design and patterns (2021) to appear. [webpage](https://ebooks.iospress.nl/doi/10.3233/SSW210021)
 
 - **InK browser - the interactive knowledge browser** : Joseph Zalewski, Lu Zhou, <u>Cogan Shimizu</u>, Pascal Hitzler. In : Proceedings of the 2021 posters, demos and industry tracks: From novel ideas to industrial practice co-located with 20th international semantic web conference 2021), virtual conference, october 24-28, 2021 (2021) to appear. [paper.pdf](assets/publications/2021-ink-browser-interactive-knowledge-browser.pdf)
 
@@ -77,15 +77,15 @@
 
 - **A pattern for modeling causal relations between events** : <u>Cogan Shimizu</u>, Rui Zhu, Mark Schildhauer, Krzysztof Janowicz, Pascal Hitzler. In : Proceedings of the 12th workshop on ontology design and patterns 2021) co-located with the 20th international semantic web conference 2021), online, october 24, 2021 (2021) to appear. [paper.pdf](assets/publications/2021-pattern-modeling-causal-relations-events.pdf)
 
-- **Advances in pattern-based ontology engineering, extended versions of the papers published at the workshop on ontology design and patterns** : Unknown Author. In : (2021) to appear.
+- **Advances in pattern-based ontology engineering, extended versions of the papers published at the workshop on ontology design and patterns** : Unknown Author. In : (2021) to appear. [webpage](https://ebooks.iospress.nl/doi/10.3233/SSW51)
 
-- **Proceedings of the 12th workshop on ontology design and patterns 2021) co-located with the 20th international semantic web conference 2021), online, october 24, 2021** : Unknown Author. In : (2021) to appear.
+- **Proceedings of the 12th workshop on ontology design and patterns 2021) co-located with the 20th international semantic web conference 2021), online, october 24, 2021** : Unknown Author. In : (2021) to appear. [webpage](https://ceur-ws.org/Vol-3011/)
 
 - **Time is ripe to embrace the scientific approach in applied ontology** : Stefano Borgo, Pascal Hitzler, <u>Cogan Shimizu</u>. In : Appl. Ontology (2020) to appear. [paper.pdf](assets/publications/2020-scientific-approach-applied-ontology.pdf)
 
 - **The enslaved ontology: Peoples of the historic slave trade** : <u>Cogan Shimizu</u>, Pascal Hitzler, Quinn Hirt, Dean Rehberger, Seila Gonzalez Estrecha, Catherine Foley, Alicia M. Sheill, Walter Hawthorne, Jeff Mixter, Ethan Watrall, Ryan Carty, Duncan Tarr. In : J. Web Semant. (2020) to appear. [paper.pdf](assets/publications/2020-enslaved-ontology.pdf)
 
-- **Completion reasoning emulation for the description logic** : Aaron Eberhart, Monireh Ebrahimi, Lu Zhou, <u>Cogan Shimizu</u>, Pascal Hitzler. In : Proceedings of the 2020 spring symposium on combining machine learning and knowledge engineering in practice, 2020, palo alto, CA, USA, march 23-25, 2020, volume (2020) to appear.
+- **Completion reasoning emulation for the description logic** : Aaron Eberhart, Monireh Ebrahimi, Lu Zhou, <u>Cogan Shimizu</u>, Pascal Hitzler. In : Proceedings of the 2020 spring symposium on combining machine learning and knowledge engineering in practice, 2020, palo alto, CA, USA, march 23-25, 2020, volume (2020) to appear. [paper.pdf](assets/publications/2020-completion-reasoning-emulation-description-logic.pdf)
 
 - **The enslaved dataset: real-world complex ontology alignment benchmark using wikibase** : Lu Zhou, <u>Cogan Shimizu</u>, Pascal Hitzler, Alicia M. Sheill, Seila Gonzalez Estrecha, Catherine Foley, Duncan Tarr, Dean Rehberger. In : ’20: The 29th international conference on information and knowledge management, virtual event, ireland, october 19-23, 2020 (2020) to appear. [paper.pdf](assets/publications/2020-enslaved-dataset-complex-ontology-alignment-benchmark-wikibase.pdf)
 
@@ -99,25 +99,25 @@
 
 - **Modular ontology modeling: tutorial** : <u>Cogan Shimizu</u>, Pascal Hitzler, Adila Krisnadhi. In : Applications and practices in ontology design, extraction, and reasoning (2020) to appear. [paper.pdf](assets/publications/2020-modular-ontology-modeling-tutorial.pdf)
 
-- **Towards a modular ontology for space weather research** : <u>Cogan Shimizu</u>, Ryan M. McGranaghan, Aaron Eberhart, Adam C. Kellerman. In : CoRR (2020) to appear.
+- **Towards a modular ontology for space weather research** : <u>Cogan Shimizu</u>, Ryan M. McGranaghan, Aaron Eberhart, Adam C. Kellerman. In : CoRR (2020) to appear. [paper.pdf](assets/publications/2021-towards-modular-ontology-space-weather.pdf)
 
 - **A closer look at the semantic web journal’s review process** : <u>Cogan Shimizu</u>, Pascal Hitzler, Krzysztof Janowicz. In : Semantic Web (2019) to appear. [paper.pdf](assets/publications/2019-closer-look-swj-review-process.pdf)
 
-- **Caregiver assessment using smart gaming technology: feasibility study** : Garrett Goodman, Tanvi Banerjee, William L. Romine, <u>Cogan Shimizu</u>, Jennifer Hughes. In : 2019 international conference on fuzzy systems, 2019, new orleans, LA, USA, june 23-26, 2019 (2019) to appear.
+- **Caregiver assessment using smart gaming technology: feasibility study** : Garrett Goodman, Tanvi Banerjee, William L. Romine, <u>Cogan Shimizu</u>, Jennifer Hughes. In : 2019 international conference on fuzzy systems, 2019, new orleans, LA, USA, june 23-26, 2019 (2019) to appear. [paper.pdf](assets/publications/2019-caregiver-assessment-smart-gaming-tech-study.pdf)
 
 - **Constrained state-preserved extreme learning machine** : Garrett Goodman, <u>Cogan Shimizu</u>, Iosif Papadakis Ktistakis. In : 31st international conference on tools with artificial intelligence, 2019, portland, OR, USA, november 4-6, 2019 (2019) to appear. [paper.pdf](assets/publications/2019-constrained-state-preserved-extreme-learning-machine.pdf)
 
 - **A method for automatically generating schema diagrams for ontologies** : <u>Cogan Shimizu</u>, Aaron Eberhart, Nazifa Karima, Quinn Hirt, Adila Krisnadhi, Pascal Hitzler. In : Knowledge graphs and semantic web - first iberoamerican conference, 2019, villa clara, cuba, june 23-30, 2019, proceedings (2019) to appear. [paper.pdf](assets/publications/2019-automatically-generating-schema-diagrams-for-owl.pdf)
 
-- **modular ontology design library** : <u>Cogan Shimizu</u>, Quinn Hirt, Pascal Hitzler. In : Proceedings of the 10th workshop on ontology design and patterns 2019) co-located with 18th international semantic web conference 2019), auckland, new zealand, october 27, 2019 (2019) to appear.
+- **modular ontology design library** : <u>Cogan Shimizu</u>, Quinn Hirt, Pascal Hitzler. In : Proceedings of the 10th workshop on ontology design and patterns 2019) co-located with 18th international semantic web conference 2019), auckland, new zealand, october 27, 2019 (2019) to appear. [paper.pdf](assets/publications/2019-modl-modular-ontology-design-library.pdf)
 
 - **Extensions to the ontology design pattern representation language** : Quinn Hirt, <u>Cogan Shimizu</u>, Pascal Hitzler. In : Proceedings of the 10th workshop on ontology design and patterns 2019) co-located with 18th international semantic web conference 2019), auckland, new zealand, october 27, 2019 (2019) to appear. [paper.pdf](assets/publications/2019-extensions-ontology-design-pattern-representation-language.pdf)
 
 - **CoModIDE - the comprehensive modular ontology engineering** : <u>Cogan Shimizu</u>, Karl Hammar. In : Proceedings of the 2019 satellite tracks (posters demonstrations, industry, and outrageous ideas) co-located with 18th international semantic web conference 2019), auckland, new zealand, october 26-30, 2019 (2019) to appear. [paper.pdf](assets/publications/2019-comodide.pdf)
 
-- **Proceedings of the 10th workshop on ontology design and patterns 2019) co-located with 18th international semantic web conference 2019), auckland, new zealand, october 27, 2019** : Unknown Author. In : (2019) to appear.
+- **Proceedings of the 10th workshop on ontology design and patterns (WOP 2019) co-located with 18th international semantic web conference (ISWC 2019), auckland, new zealand, october 27, 2019** : Unknown Author. In : (2019) to appear. [webpage](https://ceur-ws.org/Vol-2459/)
 
-- **modular ontology design library** : <u>Cogan Shimizu</u>, Quinn Hirt, Pascal Hitzler. In : CoRR (2019) to appear. [paper.pdf](assets/publications/2019-modl-modular-ontology-design-library.pdf)
+- **modular ontology design library** : <u>Cogan Shimizu</u>, Quinn Hirt, Pascal Hitzler. In : CoRR (2019) to appear. [paper.pdf](assets/publications/2019-modl-modular-ontology-design-library-2.pdf)
 
 - **Completion reasoning emulation for the description logic** : Aaron Eberhart, Monireh Ebrahimi, Lu Zhou, <u>Cogan Shimizu</u>, Pascal Hitzler. In : CoRR (2019) to appear. [paper.pdf](assets/publications/2020-completion-reasoning-emulation-description-logic.pdf)
 
@@ -125,7 +125,7 @@
 
 - **Modular ontologies as a bridge between human conceptualization and data** : Pascal Hitzler, <u>Cogan Shimizu</u>. In : Graph-based representation and reasoning - 23rd international conference on conceptual structures, 2018, edinburgh, UK, june 20-22, 2018, proceedings (2018) to appear. [paper.pdf](assets/publications/2018-modular-ontologies-bridge-between-human-conceptualization-and-data.pdf)
 
-- **Ontology design patterns for winston’s taxonomy of part-whole relations** : <u>Cogan Shimizu</u>, Pascal Hitzler, Clare Paul. In : Proceedings of the 9th workshop on ontology design and patterns 2018) co-located with 17th international semantic web conference 2018), monterey, USA, october 9th, 2018 (2018) to appear.
+- **Ontology design patterns for winston’s taxonomy of part-whole relations** : <u>Cogan Shimizu</u>, Pascal Hitzler, Clare Paul. In : Proceedings of the 9th workshop on ontology design and patterns 2018) co-located with 17th international semantic web conference 2018), monterey, USA, october 9th, 2018 (2018) to appear. [paper.pdf](assets/publications/2018-ontology-design-patterns-winstons-taxonomy-part-whole-relations.pdf)
 
 - **Towards a pattern-based ontology for chemical laboratory procedures** : <u>Cogan Shimizu</u>, Leah McEwen, Quinn Hirt. In : Proceedings of the 9th workshop on ontology design and patterns 2018) co-located with 17th international semantic web conference 2018), monterey, USA, october 9th, 2018 (2018) to appear. [paper.pdf](assets/publications/2018-pattern-based-ontology-chemical-lab-procedures.pdf)
 
@@ -133,7 +133,7 @@
 
 - **Ontology design patterns for winston’s taxonomy of part-whole relations** : <u>Cogan Shimizu</u>, Pascal Hitzler, Clare Paul. In : Emerging topics in semantic technologies - 2018 satellite events [best papers from 13 of the workshops co-located with the 2018 conference] (2018) to appear. [paper.pdf](assets/publications/2018-ontology-design-patterns-winstons-taxonomy-part-whole-relations.pdf)
 
-- **Caregiver assessment using smart gaming technology: preliminary approach** : Garrett Goodman, Abby Edwards, <u>Cogan Shimizu</u>, Tanvi Banerjee, Jennifer Hughes, William L. Romine, Larry Lawhorne. In : CoRR (2018) to appear. [paper.pdf](assets/publications/2019-caregiver-assessment-smart-gaming-tech-study.pdf)
+- **Caregiver assessment using smart gaming technology: preliminary approach** : Garrett Goodman, Abby Edwards, <u>Cogan Shimizu</u>, Tanvi Banerjee, Jennifer Hughes, William L. Romine, Larry Lawhorne. In : CoRR (2018) to appear. [paper.pdf](assets/publications/2018-caregiver-assessment-smart-gaming-tech-study.pdf)
 
 - **Rendering in description logic syntax** : <u>Cogan Shimizu</u>, Pascal Hitzler, Matthew Horridge. In : The semantic web: 2017 satellite events - 2017 satellite events, portoro , slovenia, may 28 - june 1, 2017, revised selected papers (2017) to appear. [paper.pdf](assets/publications/2017-rending-owl-description-logic-syntax.pdf)
 
