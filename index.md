@@ -8,10 +8,14 @@ KASTLE Lab's mission is to
 * advance the state of open curriculum in knowledge engineering and semantic technologies.
 
 ## Notices
-* **E-mails to the lab which request a position, but have not read the [_Recruiting page_](./recruiting.md), will not receive a response.**
+* **E-mails to the lab which request a position, but have not read the [_Recruiting page_](./recruiting.md), will not receive a response.** This pertains to the request of funded positions or topics that are out-of-scope for the lab's expertise.
 * Accepting Independent Study requests, Master's Thesis Proposals, Research Projects, LSAMP scholars, and more. Please see the [recruiting page](./recruiting.md) for more details.
 
 ## Recent News
+* Dec 2024 -- "[The KnowWhereGraph Ontology](https://www.sciencedirect.com/science/article/pii/S1570826824000283)" is published in the Journal of Web Semantics.
+* Dec 2024 -- Alexis Ellis is awarded a scholarship through the "Alice Swinger First International Travel Grant at Wright State University!" Congratulations!
+* Dec 2024 -- Michael McCain successfully defends their Departmental Honors Thesis! Congratulations!
+* Sep 2024 -- Shreyas Casturi joins KASTLE Lab!
 * Sep 2024 -- Anmol Saini has their paper, "An Ontology for Conversations with Virtual Research Assistants," accepted to [ICTAI 2024](https://ictai.computer.org/2024/).
 * Aug 2024 -- Chris Davis Jaldi joins KASTLE Lab!
 * Aug 2024 -- Michael McCain has their paper, "KnowWhereGraph for Land Use Optimization: Achieving Sustainability and Efficiency," accepted to [AI4S](https://ai4sconference.org/).

@@ -9,7 +9,7 @@ Jump to:
 ## News from 2024
 
 ## News from 2023
-* Dec 2023 -- Anmol Saini successfully defends his Departmental Honors Thesis! Congratulations!
+* Dec 2023 -- Anmol Saini successfully defends their Departmental Honors Thesis! Congratulations!
 * Nov 2023 -- Cogan Shimizu gives key note talk at the [14th Workshop on Ontology Design and Patterns](https://odpa.github.io/workshop-on-ontology-design-and-patterns/2023/index.html), co-located with [ISWC 2023](https://iswc2023.semanticweb.org/).
 * Oct 2023 -- Divine Eziolise joins KASTLE Lab!
 * Oct 2023 -- KASTLE Lab makes excellent showing at [Wright State University's Celebration of Undergraduate and Graduate Research](https://www.wright.edu/event/celebration-of-undergraduate-graduate-research-scholarship-and-creative-activities). All KASTLE Lab students who submitted an abstract were invited to submit posters. Antrea was nominated to give a Data Blitz! Take a look [here](./events/research_celeb_2023.md) for some pictures of the event!
