@@ -12,23 +12,11 @@ KASTLE Lab's mission is to
 * Accepting Independent Study requests, Master's Thesis Proposals, Research Projects, LSAMP scholars, and more. Please see the [recruiting page](./recruiting.md) for more details.
 
 ## Recent News
-* Dec 2024 -- "[The KnowWhereGraph Ontology](https://www.sciencedirect.com/science/article/pii/S1570826824000283)" is published in the Journal of Web Semantics.
-* Dec 2024 -- Alexis Ellis is awarded a scholarship through the "Alice Swinger First International Travel Grant at Wright State University!" Congratulations!
-* Dec 2024 -- Michael McCain successfully defends their Departmental Honors Thesis! Congratulations!
-* Sep 2024 -- Shreyas Casturi joins KASTLE Lab!
-* Sep 2024 -- Anmol Saini has their paper, "An Ontology for Conversations with Virtual Research Assistants," accepted to [ICTAI 2024](https://ictai.computer.org/2024/).
-* Aug 2024 -- Chris Davis Jaldi joins KASTLE Lab!
-* Aug 2024 -- Michael McCain has their paper, "KnowWhereGraph for Land Use Optimization: Achieving Sustainability and Efficiency," accepted to [AI4S](https://ai4sconference.org/).
-* Jul 2024 -- Rakesh Kandula successfully defends their Master's Thesis! Congratulations!
-* May 2024 -- Brandon Dave, as a part of the KASTLE Lab, is awarded $52,260 from AFRL/SOCHE for their project "TASK-MATS," which focuses on how knowledge graphs can be used to aid in error control for autonomous manufacturing systems.
-* May 2024 -- Anmol Saini, as a part of the KASTLE Lab, is awarded $52,260 from AFRL/SOCHE for their project "KGRWAPS," which focuses on how knowledge graphs can be used to power virtual research assistants in polymer science.
-* May 2024 -- Jon Cole joins KASTLE Lab!
-* Apr 2024 -- Antrea Christou successfully defends their Master's Thesis! Congratulations!
-* Apr 2024 -- Brandon Dave successfully defends their Master's Thesis! Congratulations!
-* Apr 2024 -- Alexis Ellis successfully passes their Candidacy Exam! Congratulations!
-* Mar 2024 -- Alexis Ellis & Brandon dave have their paper, "EASY-AI: sEmantic And compoSable glYphs for representing AI systems," accepted to [HHAI 2024](https://hhai-conference.org/2024/).
-* Jan 2024 -- Dennis Young joins KASTLE Lab!
-* Jan 2024 -- Stacie Severyn joins KASTLE Lab!
+* Feb 2025 -- KASTLE Lab wins $300,000 award from the National Science Foundation for _"EAGER: A Translational Institute for Knowledge Axiomatization -- A Feasibility Study,"_ in partnership with Vinay Chaudhri.
+* Feb 2025 -- Anmol Saini has their paper, _"Polymer Data Extraction and KG Population Using LLMs,"_ accepted to [First AAAI Bridge on Artificial Intelligence for Scholarly Communication 2025](https://sites.google.com/view/ai4sc/edition/ai4sc-AAAI2025).
+* Jan 2025 -- _"[Accelerating Knowledge Graph and Ontology Engineering with Large Language Models](https://www.sciencedirect.com/science/article/pii/S1570826825000022)"_ is published in the Journal of Web Semantics.
+* Jan 2025 -- Cogan Shimizu gives keynote, _"Modular Ontology Modeling"_ at [SemTech 2025](https://drtc.isibang.ac.in/semtech2025/about).
+* Dec 2024 -- _"[Education in the era of neurosymbolic AI](https://www.sciencedirect.com/science/article/pii/S157082682400043X)"_ is published in the Journal of Web Semantics.
 * [**See More News**](./news.md)
 
 ## More Useful Links
