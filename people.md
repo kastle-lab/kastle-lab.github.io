@@ -1,7 +1,8 @@
 ## People
 
 ### Faculty
-* [Cogan Shimizu](https://coganshimizu.com) <br /> Director
+* [Cogan Shimizu](https://coganshimizu.com) <br /> Director <br />
+[Curriculum Vitae (CV)](./assets/cv/shimizu-cv.pdf)
 
 ### Graduate Students
 * Shreyas Casturi <br />
