@@ -20,6 +20,7 @@ Research Topics: Neurosymbolic AI, Human Factors Engineering, UX/UI Design. <br 
 Funded by: State of Ohio
 * [Elham Ghiasi](https://github.com/Elhamghiasi)<br />
 M.S. <br />
+Thesis <br />
 Program Coordinator Assistant
 * [Chris Davis Jaldi](https://github.com/chrisdavisj) <br />
 M.S. <br />
