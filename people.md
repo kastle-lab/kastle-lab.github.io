@@ -18,8 +18,9 @@ Funded by: National Science Foundation
 Ph.D. (DAGSI Fellow)  <br />
 Research Topics: Neurosymbolic AI, Human Factors Engineering, UX/UI Design. <br />
 Funded by: State of Ohio
-* Elham Ghiasi <br />
-M.S., Program Coordinator Assistant
+* [Elham Ghiasi](https://github.com/Elhamghiasi)<br />
+M.S. <br />
+Program Coordinator Assistant
 * [Chris Davis Jaldi](https://github.com/chrisdavisj) <br />
 M.S. <br />
 Project: "Proto-OKN Theme 3: An Education Gateway for the Proto-OKN (EduGate)" <br />
