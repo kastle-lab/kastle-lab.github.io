@@ -16,7 +16,7 @@ Below are a list of different type of opportunities. Please read carefully about
 12. [Progam Coordinator Assistant](#program-coordinator-assistant)
 
 ### Graduate Research Assistantships
-A Graduate Research Assistant (GRA) is a funded position. This salary is usually $27,000 annual stipend, disbursed monthly, and 6 credit hours of tuition support. GRAs complete project work (i.e., a line of research that pertains to the funding source) and complete lab work (i.e., a line of research that generally cross-cuts multiple topics and supports the lab's research themes). The lab is primarily looking for students intending to complete their PhD.
+A Graduate Research Assistant (GRA) is a funded position. This salary is usually a $27,000 annual stipend, disbursed monthly, with 6 credit hours of tuition support. GRAs complete project work (i.e., a line of research that pertains to the funding source) and complete lab work (i.e., a line of research that generally cross-cuts multiple topics and supports the lab's research themes). The lab is primarily looking for students intending to complete their PhD.
 
 These positions are only open to students that have completed at least one of the following:
 * has received an A mark in _Introduction to Knowledge Engineering_
