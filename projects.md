@@ -8,6 +8,9 @@
 KASTLE Lab and its members are currently supported by the following awards.
 
 #### Current Projects
+- **Strengthening American Competitiveness with AI Education**
+  - Department of Education
+  - Jan 2026 -- Dec 2029
 - **Prototyping a new Knowledge Resource for modern AI (Proto-KAI)**
   - National Science Foundation (TIP)
   - Oct 2025 -- Sep 2026
