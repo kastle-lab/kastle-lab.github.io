@@ -2,11 +2,33 @@
 A full news listing of KASTLE events.
 
 Jump to:
+* [2025](#news-from-2025)
 * [2024](#news-from-2024)
 * [2023](#news-from-2023)
 * [2022](#news-from-2022)
 
+## News from 2025
+* Sep 2025 -- Antrea Christou presents their short research paper, _"Extending the Interactive Knowledge Browser to Support Educational Multimedia"_ at [SEMANTiCS 2025](https://2025-eu.semantics.cc/)!
+* Sep 2025 -- Cogan Shimizu gives two keynotes at workshops co-located with [SEMANTiCS 2025](https://2025-eu.semantics.cc/)!
+  * _"Accelerating Knowledge Engineering with Modularity"_ at the 2nd Workshop on Knowledge Graphs and Neurosymbolic AI.
+  * _"Towards Understanding Structures in KG Embedding Spaces for Experimental Design"_ at the 1st International Workshop on Symbolic and Generative AI for Science (SymGenAI4Sci).
+* Sep 2025 -- Cogan Shimizu gives talk, _"Domain Adaptive Neurosymbolic Agents,"_ at Vienna University of Business and Economics and has a highly successful research visit with Fajar Ekaputra, Marta Sabou, Sabrina Kirrane, Axel Polleres, Dagmar Gromann, Katja Hose, and many students!
+* Aug 2025 -- Cogan Shimizu has a paper, _"OntoInsight -- A Metric-Guided Tool for Ontology Quality Evaluation with LLM-Powered Recommendations,"_ accepted to ER 2025.
+* Aug 2025 -- Krischal Dhungel, Susan Shrestha, and Sumit Sunar join KASTLE Lab to complete their MS thesis! Welcome!
+* Aug 2025 -- Emily Miller joins KASTLE Lab to complete their Departmental Honors Thesis! Welcome!
+* Aug 2025 -- KASTLE Lab wins $500,000 award from the National Science Foundation for _"Prototyping a new Knowledge Resource for modern AI (Proto-KAI),"_ in partnership with Vinay Chaudhri (Knowledge Systems Research, LLC) and Alessandro Oltramari (Carnegie Bosch Insitute).
+* Aug 2025 -- Cogan Shimizu runs a highly attended workshop _"Knowledge graphs for materials and autonomous experimentation/research"_ at [Accelerate 2025](https://2025.accelerateconf.ca/)!
+* Jul 2025 -- Cogan Shimizu runs [_"(Actual) Neurosymbolic AI: Combining Deep Learning and Knowledge Graphs"_](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/25291), a Dagstuhl Seminar!
+* June 2025 -- Cogan Shimizu gives talk, _"Modular Ontology Modeling,"_ at Örebro Univeristy and has a highly successful research visit with Hadi Banae, Stephanie Lowry, and Fjollë Novakazi!
+* June 2025 -- Cogan Shimizu gives keynote, _"Accelerating Knowledge Graph and Ontology Engineering with Large Language Models,"_ at [ELMKE: Evaluation of Language Models in Knowledge Engineering](https://sites.google.com/view/elmke/past-workshops/2025), co-located with [ESWC 2025](https://2025.eswc-conferences.org/).
+* May 2025 -- Ashish Pokhrel and Jon Wasky join KASTLE Lab as Scientific Programmers! Welcome!
+* Feb 2025 -- KASTLE Lab wins $300,000 award from the National Science Foundation for _"EAGER: A Translational Institute for Knowledge Axiomatization -- A Feasibility Study,"_ in partnership with Vinay Chaudhri (Knowledge Systems Research, LLC).
+* Feb 2025 -- Anmol Saini has their paper, _"Polymer Data Extraction and KG Population Using LLMs,"_ accepted to [First AAAI Bridge on Artificial Intelligence for Scholarly Communication 2025](https://sites.google.com/view/ai4sc/edition/ai4sc-AAAI2025).
+* Jan 2025 -- _"[Accelerating Knowledge Graph and Ontology Engineering with Large Language Models](https://www.sciencedirect.com/science/article/pii/S1570826825000022)"_ is published in the Journal of Web Semantics.
+* Jan 2025 -- Cogan Shimizu gives keynote, _"Modular Ontology Modeling"_ at [SemTech 2025](https://drtc.isibang.ac.in/semtech2025/about).
+
 ## News from 2024
+* Dec 2024 -- _"[Education in the era of neurosymbolic AI](https://www.sciencedirect.com/science/article/pii/S157082682400043X)"_ is published in the Journal of Web Semantics.
 * Dec 2024 -- "[The KnowWhereGraph Ontology](https://www.sciencedirect.com/science/article/pii/S1570826824000283)" is published in the Journal of Web Semantics.
 * Dec 2024 -- Alexis Ellis is awarded a scholarship through the _"Alice Swinger First International Travel Grant at Wright State University."_ Congratulations!
 * Dec 2024 -- Michael McCain successfully defends their Departmental Honors Thesis! Congratulations!
