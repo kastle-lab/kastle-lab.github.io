@@ -5,49 +5,44 @@
 [Curriculum Vitae (CV)](./assets/cv/shimizu-cv.pdf)
 
 ### Graduate Students
+* Prabhat Adhikari <br />
+M.S.
 * Shreyas Casturi <br />
-M.S. <br />
-Thesis
+M.S.
 * [Antrea Christou](https://github.com/antreac) <br />
-M.S. (completed), Ph.D. <br />
-Research Topics: Knowledge Graph Embeddings <br />
-Project: "Proto-OKN Theme 3: An Education Gateway for the Proto-OKN (EduGate)" <br />
-Funded by: National Science Foundation
-* Krischal Dhungel
+M.S. (completed), Ph.D.
+* Krischal Dhungel <br />
+M.S.
 * [Alexis Ellis](https://github.com/AlexisEllis1997) <br />
 Ph.D. (DAGSI Fellow)  <br />
-Research Topics: Neurosymbolic AI, Human Factors Engineering, UX/UI Design. <br />
-Funded by: State of Ohio
 * [Elham Ghiasi](https://github.com/Elhamghiasi)<br />
-M.S. <br />
-Thesis <br />
-Program Coordinator Assistant
+M.S.
+* Abhishek Teja Goli <br />
+M.DS.
 * [Chris Davis Jaldi](https://github.com/chrisdavisj) <br />
-M.S. <br />
-Project: "Proto-OKN Theme 3: An Education Gateway for the Proto-OKN (EduGate)" <br />
-Funded by: National Science Foundation
+M.S. (completed), Ph.D.
 * [Michael McCain](https://github.com/Mechree) <br />
-DHT (completed), M.S. <br />
-Thesis <br />
-Funded by: DAGSI/AFRL, DAGSI/SOCHE
+DHT (completed), M.S.
+* Jinho Nam <br />
+M.S.
 * [Anmol Saini](https://github.com/L30N1DAS) <br />
-DHT (completed), Ph.D. (DAGSI Fellow) <br />
-Funded by: DAGSI/AFRL, DAGSI/SOCHE 
+DHT (completed), Ph.D.
+* Spencer Seals <br />
+M.S.
 * [Stacie Severyn](https://github.com/SNS21) <br />
-Ph.D. <br />
-Dissertation
+Ph.D.
 * Susan Shrestha <br />
 M.S. <br />
-* Sumit Sunar
+* Sumit Sunar <br />
+M.S.
 
-#### Independent Studies
+#### Scientific Programmer II
 * Krischal Dhungel
 * Sumit Sunar
 
-#### Scientific Programmer II
-* Ashish Pokhrel
-
 ### Undergraduate Students
+#### Departmental Honors Theses
+* David Castro
 * Emily Miller
 * Rose Taylor
 
@@ -55,15 +50,18 @@ M.S. <br />
 * David Castro
 * Jon Wasky
 
-### Affiliated External Faculty
+#### Program/Lab Coordinator Assistant
+* Brianna Jackson
+
+### Externally Affliations & Collaborations
+#### Affiliated External Faculty
 * [Pascal Hitzler](https://pascal-hitzler.de) <br /> [Data Semantics (DaSe) Laboratory](https://daselab.org/) <br /> [Kansas State University](https://k-state.edu)
 * [Hande Küçük McGinty](http://handemcginty.com/) <br /> [KONCORDANT Lab](https://www.koncordantlab.com/)[Kansas State University](https://k-state.edu)
 
-### Affiliated External Graduate Students
-* Ben Holmes <br /> Ph.D. <br /> Wright State University
+#### Affiliated External Graduate Students
 * Spencer Seals <br /> Ph.D. <br /> Wright State University
 
-### Affiliated External Undergraduate Students
+#### Affiliated External Undergraduate Students
 * Andrew Eells <br /> [Data Semantics Laboratory](https://daselab.org/) <br /> [Kansas State University](https://k-state.edu)
 
 ### Past Students & Alumni
@@ -96,6 +94,7 @@ Topic: Fixed-point Analysis Across Latent Spaces
 
 #### Past Affiliations via Committee
 * Nourhan Abouzahra <br /> Ph.D. <br /> Air Force Institute of Technology <br /> 2024
+* Ben Holmes <br /> Ph.D. <br /> Wright State University <br /> 2025
 * Christopher Mennart <br /> Ph.D. <br /> Wright State University <br /> 2024
 * Rafael Patronilo <br /> M.S. <br /> 2025
 * Nermeen Saleh <br /> M.S. <br /> Wright State University <br /> 2025
