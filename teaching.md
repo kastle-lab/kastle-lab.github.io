@@ -5,7 +5,7 @@
   * Spring 2026.
 * [_Neurosymbolic Artificial Intelligence._](https://github.com/kastle-lab/cs7820-neurosymbolic-ai) 
   * Spring 2024, 2025, 2026.
-* _Introduction to Software Engineering._ 
+* [_Introduction to Software Engineering._](https://github.com/WSU-cshimizu/introduction-to-software-engineering) 
   * Fall 2024.
   * Spring 2024.
 * [_Introduction to Knowledge Engineering._](https://github.com/kastle-lab/cs7810-intro-to-ke)
